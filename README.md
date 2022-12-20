@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sam-0x3b.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning lower level programming
-      with C++ and embedded C.
+- 🌱 I’m currently learning lower level programming with C++ and embedded C.
+- 💤 Also i'm doing some game dev aswell.
 
 <!---
 Sam-0x3b/Sam-0x3b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
